@@ -1,3 +1,4 @@
+using PetShop.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace PetShop.Controllers
@@ -6,10 +7,11 @@ namespace PetShop.Controllers
     [Route("petshop/pessoa")]
     public class PessoaController : ControllerBase
     {
-        
-        public void Create()
+        [HttpPost]
+        public Pessoa Create(Pessoa pessoa)
         {
-            
+            pessoa.Nome += "Mudou";
+            return pessoa;
         }
 
 
