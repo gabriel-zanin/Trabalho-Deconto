@@ -30,5 +30,6 @@ namespace PetShop.Controllers
         [Route("list")]
         public List<Pet> List() => _context.Pets.ToList();
 
+        //GET: petshop/pet/getbyid/1
     }
 }

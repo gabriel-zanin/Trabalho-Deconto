@@ -2,6 +2,8 @@ using PetShop.Models;
 using Microsoft.AspNetCore.Mvc;
 using PetShop.Data;
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace PetShop.Controllers
 {
@@ -23,6 +25,11 @@ namespace PetShop.Controllers
             _context.Pessoas.Add(pessoa);
             return pessoa;
         }
+
+        [HttpGet]
+        [Route("list")]
+        public List<Pessoa> List() => _context.Pessoas.ToList();
+
 
 
 
