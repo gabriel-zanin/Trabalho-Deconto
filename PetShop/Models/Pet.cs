@@ -4,7 +4,7 @@ namespace PetShop.Models
     {
          public string Nome {get; set;}
 
-        public double IdPet {get; set;}
+        public int IdPet {get; set;}
 
         public string Dono {get; set;}
 

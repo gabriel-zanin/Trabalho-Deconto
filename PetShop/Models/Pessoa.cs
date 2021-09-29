@@ -7,10 +7,10 @@ namespace PetShop.Models
         
         public string Nome {get; set;}
 
-        public double Cpf {get; set;}
+        public int Cpf {get; set;}
 
         public string Funcao {get; set;}
 
-        public double Telefone {get; set;}
+        public int Telefone {get; set;}
     }
 }

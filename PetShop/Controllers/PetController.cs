@@ -9,6 +9,7 @@ namespace PetShop.Controllers
 
     public class PetController : ControllerBase
     {
+          //Post: /petshop/pet/create
         [HttpPost]
         [Route("create")]
         public Pet Create(Pet pet)
