@@ -32,3 +32,9 @@ C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\
 C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\FRONT\angular.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\FRONT\package-lock.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\FRONT\package.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\FRONT\tsconfig.app.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\FRONT\tsconfig.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\FRONT\tsconfig.spec.json
