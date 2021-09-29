@@ -2,7 +2,7 @@ namespace PetShop.Models
 {
     public class OS
     {
-        public int IdOs { get; set; }
+        public int OsId { get; set; }
 
         public string NomeCliente { get; set; }
 

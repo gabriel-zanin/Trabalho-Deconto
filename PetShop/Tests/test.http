@@ -16,3 +16,7 @@ Content-Type: application/json
 "Dono" : "Jose",
 "TipoAnimal" : "Gato"
 }
+
+###
+
+GET https://localhost:5001/petshop/pet/list
