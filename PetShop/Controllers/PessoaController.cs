@@ -4,6 +4,7 @@ using PetShop.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 
 namespace PetShop.Controllers
 {
@@ -20,18 +21,46 @@ namespace PetShop.Controllers
         //Post: /petshop/pessoa/create
         [HttpPost]
         [Route("create")]
-        public Pessoa Create(Pessoa pessoa)
+        public IActionResult Create(Pessoa pessoa)
         {
             _context.Pessoas.Add(pessoa);
-            return pessoa;
+            return Created("",pessoa);
         }
 
         [HttpGet]
         [Route("list")]
-        public List<Pessoa> List() => _context.Pessoas.ToList();
+        public IActionResult List() => Ok(_context.Pessoas.ToList());
+
+
+        public IActionResult GetById([FromRoute]int id)
+        {
+            //Busca produtos apenas pela chave primária
+            Pessoa pessoa = _context.Pessoas.Find(id);
+            if (pessoa == null)
+            {
+                return NotFound(); 
+            }
+            return Ok(pessoa);
+        }
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+        public IActionResult Update(Pessoa pessoa)
+        {
+            _context.Pessoas.Update(pessoa);
+            return Ok(pessoa);
+        }
 
 
     }

@@ -12,7 +12,7 @@ POST https://localhost:5001/petshop/pet/create
 Content-Type: application/json
 
 {
-"Nome" : "iiio",
+"Nome" : "Tigre",
 "Dono" : "Jose",
 "TipoAnimal" : "Gato"
 }
@@ -35,3 +35,7 @@ Content-Type: application/json
 "Dono" : "Jose",
 "TipoAnimal" : "Gato"
 }
+
+### Deletar Pet
+
+DELETE https://localhost:5001/petshop/pet/delete
