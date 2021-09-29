@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\PetShop\\PetShop.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\Trabalho-Deconto\\PetShop\\PetShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\PetShop\\PetShop.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\Trabalho-Deconto\\PetShop\\PetShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\PetShop\\PetShop.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\Trabalho-Deconto\\PetShop\\PetShop.csproj",
         "projectName": "PetShop",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\PetShop\\PetShop.csproj",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\Trabalho-Deconto\\PetShop\\PetShop.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\PetShop\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\Trabalho-Deconto\\PetShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,10 @@
+###
+POST https://localhost:5001/petshop/pessoa/create
+Content-Type: application/json
+
+{
+"Nome" : "José",
+"CPF" : 59267069272,
+"Funcao" : "Limpador",
+"Telefone" : 41992223985
+}

@@ -7,10 +7,12 @@ namespace PetShop.Controllers
     [Route("petshop/pessoa")]
     public class PessoaController : ControllerBase
     {
+        //Post: /petshop/pessoa/create
         [HttpPost]
+        [Route("create")]
         public Pessoa Create(Pessoa pessoa)
         {
-            pessoa.Nome += "Mudou";
+            pessoa.Nome += " Mudou";
             return pessoa;
         }
 

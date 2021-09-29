@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bf4js4Fv9hDg7RaNT+Nc2PksvVNW2RWvCsHs1WaYCWmPCKQ8lMN8gzSVBK4C3DRyo2UfOAVSNzMaHHV39AeUKQ==",
+  "dgSpecHash": "A9RjtBRKnibCs0f/h2GrzpJrG/BlGVCEHhTnmtg9OULMNiN0qK34/mwqOniwW2aPPTkPl57cg3mImnksCCRmPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\PetShop\\PetShop.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\Trabalho-Deconto\\PetShop\\PetShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
