@@ -7,7 +7,7 @@ namespace PetShop.Models
         
         public string Nome {get; set;}
 
-        public int Id {get; set;} //TROCAR ID POR CPF
+        public int Cpf {get; set;} 
 
         public string Funcao {get; set;}
 

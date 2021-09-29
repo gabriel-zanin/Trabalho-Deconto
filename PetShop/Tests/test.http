@@ -37,5 +37,5 @@ Content-Type: application/json
 }
 
 ### Deletar Pet
-
-DELETE https://localhost:5001/petshop/pet/delete
+ 
+DELETE https://localhost:5001/petshop/pet/delete/Tigre

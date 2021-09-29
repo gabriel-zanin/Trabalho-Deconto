@@ -20,6 +20,10 @@ namespace PetShop.Controllers
          private readonly DataContext _context;
             //Construtor
             public PetController(DataContext context) => _context = context;
+          
+          
+          
+          
           //Post: /petshop/pet/create
         [HttpPost]
         [Route("create")]
@@ -30,10 +34,15 @@ namespace PetShop.Controllers
             return Created("",pet);
         }
 
-           [HttpGet]
+        [HttpGet]
         [Route("list")]
         public IActionResult List() => Ok(_context.Pets.ToList());
 
+        
+        
+        
+        
+        
         //GET: petshop/pet/getbyid/1
 
         [HttpGet]
@@ -50,10 +59,14 @@ namespace PetShop.Controllers
             return Ok(pet);
         }
 
+        
+        
+        
+        
+        
         //DELETE: petshop/pet/delete
         [HttpDelete]
         [Route("delete/{name}")]
-        
         public IActionResult Delete ([FromRoute] string name)
         {
             //expressão lambda
