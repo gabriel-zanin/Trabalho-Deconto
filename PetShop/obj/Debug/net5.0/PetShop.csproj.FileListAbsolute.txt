@@ -27,3 +27,8 @@ C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\
 C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\ref\PetShop.dll
 C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.pdb
 C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
