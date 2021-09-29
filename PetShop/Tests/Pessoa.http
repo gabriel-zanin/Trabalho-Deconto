@@ -8,3 +8,14 @@ Content-Type: application/json
 "Funcao" : "Limpador",
 "Telefone" : 41992223985
 }
+
+###
+POST https://localhost:5001/petshop/pet/create
+Content-Type: application/json
+
+{
+"Nome" : "iiio",
+"IdPet" : 1,
+"Dono" : "Jose",
+"TipoAnimal" : "Lagarto"
+}
