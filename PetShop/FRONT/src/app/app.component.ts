@@ -13,14 +13,13 @@ export class AppComponent implements OnInit{
 
   constructor(private service: PetService){}
 
-  pets : Pet[] = [];
   ngOnInit(): void {
 
     this.service.list().subscribe((pets) => {
 
       this.pets = pets;
-      for (let Pet of pets){
-        console.log(Pet)
+      for (let pet of pets){
+        console.log(pet)
       }
     })
 

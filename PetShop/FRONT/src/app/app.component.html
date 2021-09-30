@@ -1,5 +1,5 @@
 <ol>
-  <li>
-      {{ title }}
+  <li *ngFor="let pet of pets">
+      {{pet.nome}}
   </li>
 </ol>
