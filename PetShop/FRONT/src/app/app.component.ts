@@ -18,7 +18,7 @@ export class AppComponent implements OnInit{
       this.pets = pets;
 
       for(let Pet of pets){
-        console.log();
+        console.log(Pet.nome)
       }
 
     });

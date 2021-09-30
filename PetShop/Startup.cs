@@ -29,6 +29,11 @@ namespace PetShop
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers().AddNewtonsoftJson();
+            services.AddCors(
+                options => {
+                    options.AddPolicy("CorsPolicy", builder => builder.AllowAnyOrigin());
+                }
+            );
 
             //Configurar todas as injeções de dependência na sua aplicação
             services.AddDbContext<DataContext>
@@ -51,6 +56,8 @@ namespace PetShop
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "PetShop v1"));
             }
+
+            app.UseCors("CorsPolicy");
 
             app.UseHttpsRedirection();
 

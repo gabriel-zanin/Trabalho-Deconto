@@ -1,4 +1,5 @@
 export interface Pet {
 
-  nome:string;
+  nome: string;
+
 }
