@@ -46,7 +46,7 @@ namespace PetShop.Controllers
         [HttpGet]
         [Route("getbyid/{id}")]
 
-        public IActionResult GetById([FromRoute]int cpf)
+        public IActionResult GetById([FromRoute]string cpf)
         {
             //Busca pessoas  apenas pela chave primária
             Pessoa pessoa = _context.Pessoas.Find(cpf);
@@ -60,7 +60,7 @@ namespace PetShop.Controllers
         //DELETE: petshop/pessoa/delete
         [HttpDelete]
         [Route("delete/{cpf}")]
-        public IActionResult Delete ([FromRoute] int cpf)
+        public IActionResult Delete ([FromRoute] string cpf)
         {
             //expressão lambda
 

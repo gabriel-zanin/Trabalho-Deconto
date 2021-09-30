@@ -4,7 +4,8 @@ Content-Type: application/json
 
 {
 "Nome" : "José",
-"Funcao" : "Limpador"
+"Funcao" : "Limpador",
+"Cpf" : "9972495957"
 }
 
 ### Cadastrar Pet

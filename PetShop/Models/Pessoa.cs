@@ -1,4 +1,6 @@
 using System.CodeDom.Compiler;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PetShop.Models
 {
@@ -7,7 +9,9 @@ namespace PetShop.Models
         
         public string Nome {get; set;}
 
-        public int Cpf {get; set;} 
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.None)]
+        public string Cpf {get; set;} 
 
         public string Funcao {get; set;}
 
