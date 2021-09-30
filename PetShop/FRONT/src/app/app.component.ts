@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Pet } from 'src/models/pet';
+import { PetService } from 'src/services/pet.service';
 
 @Component({
   selector: 'app-root',
@@ -7,8 +9,20 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppComponent implements OnInit{
 
+  pets!: Pet[];
+
+  constructor(private service: PetService){}
+
   ngOnInit(): void {
-    console.log("teste");
+    this.service.list().subscribe((pets) => {
+      this.pets = pets;
+
+      for(let Pet of pets){
+        console.log();
+      }
+
+    });
+
   }
 
 }
