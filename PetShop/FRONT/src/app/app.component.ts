@@ -7,22 +7,8 @@ import { PetService } from 'src/services/pet.service';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent implements OnInit{
+export class AppComponent {
 
-  pets: Pet[] = [];
 
-  constructor(private service: PetService){}
-
-  ngOnInit(): void {
-
-    this.service.list().subscribe((pets) => {
-
-      this.pets = pets;
-      for (let pet of pets){
-        console.log(pet)
-      }
-    })
-
-  }
 
 }
