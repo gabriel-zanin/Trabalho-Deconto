@@ -9,19 +9,19 @@ import { PetService } from 'src/services/pet.service';
 })
 export class AppComponent implements OnInit{
 
-  pets!: Pet[];
+  pets: Pet[] = [];
 
   constructor(private service: PetService){}
 
   ngOnInit(): void {
+
     this.service.list().subscribe((pets) => {
+
       this.pets = pets;
-
-      for(let Pet of pets){
-        console.log(Pet.nome)
+      for (let Pet of pets){
+        console.log(Pet)
       }
-
-    });
+    })
 
   }
 

@@ -7,13 +7,8 @@ import { HttpClient } from '@angular/common/http';
 })
 export class PetService {
 
-  constructor(private http: HttpClient )
-   {
-
-   }
-
+  constructor(private http: HttpClient ){}
    list(): Pet[]{
-
     return[]
    }
 }
