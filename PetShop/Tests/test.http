@@ -1,12 +1,3 @@
-### Cadastrar Pessoa
-POST https://localhost:5001/petshop/pessoa/create
-Content-Type: application/json
-
-{
-"Nome" : "José",
-"Funcao" : "Limpador",
-"Cpf" : "99724959557"
-}
 
 ### Cadastrar Pet
 POST https://localhost:5001/petshop/pet/create
@@ -18,24 +9,27 @@ Content-Type: application/json
 "TipoAnimal" : "Gato"
 }
 
-### Listar Pets
 
-GET https://localhost:5001/petshop/pessoa/list
+### Listar Pets
+GET https://localhost:5001/petshop/pet/list
 
 ### Buscar Pet pelo ID
 
 GET https://localhost:5001/petshop/pet/getbyid/3
 
+
 ### Alterar Pet
+
 PUT https://localhost:5001/petshop/pet/update
 Content-Type: application/json
 
 {
 "PetId" : 1,
-"Nome" : "iiio update",
-"Dono" : "Jose",
-"TipoAnimal" : "Gato"
+"Nome" : "Alterado",
+"Dono" : "Car",
+"TipoAnimal" : "Dog"
 }
+
 
 ### Deletar Pet
  

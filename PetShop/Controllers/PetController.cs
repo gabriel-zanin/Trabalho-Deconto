@@ -87,5 +87,15 @@ namespace PetShop.Controllers
 
         }
 
+        //UPDATE: petshop/pet/update
+        [HttpPut]
+        [Route("update")]
+        public IActionResult Update ([FromBody] Pet pet)
+        {
+        _context.Pets.Update(pet);
+        _context.SaveChanges();
+        return Ok(pet);
+        }
+
     }
 }
