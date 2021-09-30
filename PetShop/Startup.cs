@@ -28,6 +28,7 @@ namespace PetShop
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddControllers().AddNewtonsoftJson();
 
             //Configurar todas as injeções de dependência na sua aplicação
             services.AddDbContext<DataContext>

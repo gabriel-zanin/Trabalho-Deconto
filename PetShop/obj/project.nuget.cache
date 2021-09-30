@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "P1bn2GD8uQLoFBXz9j59rzvgGY0sect2c9QZ6WNtYtwaulq/AwpBZ2X2zPUO4OqfiN5dv55qsAtU/li+JJnnig==",
+  "dgSpecHash": "/gkR1glOU4d2qQ7gczg2phvdffNpI1b7KdSa8GP6wLw45xnvA5cluABMENXnvmI8Fgm3hQp/jX+YJVx9vR/9yg==",
   "success": true,
   "projectFilePath": "/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/PetShop.csproj",
   "expectedPackageFiles": [
+    "/Users/carlosneres/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.10/microsoft.aspnetcore.jsonpatch.5.0.10.nupkg.sha512",
+    "/Users/carlosneres/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/5.0.10/microsoft.aspnetcore.mvc.newtonsoftjson.5.0.10.nupkg.sha512",
+    "/Users/carlosneres/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/carlosneres/.nuget/packages/microsoft.entityframeworkcore/5.0.10/microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "/Users/carlosneres/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.10/microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",
     "/Users/carlosneres/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.10/microsoft.entityframeworkcore.analyzers.5.0.10.nupkg.sha512",
@@ -18,6 +21,8 @@
     "/Users/carlosneres/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
     "/Users/carlosneres/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/Users/carlosneres/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/carlosneres/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/carlosneres/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "/Users/carlosneres/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/Users/carlosneres/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/Users/carlosneres/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
@@ -26,5 +31,12 @@
     "/Users/carlosneres/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/carlosneres/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache /Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

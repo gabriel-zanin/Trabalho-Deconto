@@ -18,12 +18,17 @@ namespace PetShop.Controllers
         private readonly DataContext _context;
             //Construtor
             public PessoaController(DataContext context) => _context = context;
+
+
+
+
         //Post: /petshop/pessoa/create
         [HttpPost]
         [Route("create")]
-        public IActionResult Create(Pessoa pessoa)
+         public IActionResult Create([FromBody]Pessoa pessoa)
         {
             _context.Pessoas.Add(pessoa);
+            _context.SaveChanges();
             return Created("",pessoa);
         }
 
@@ -32,10 +37,19 @@ namespace PetShop.Controllers
         public IActionResult List() => Ok(_context.Pessoas.ToList());
 
 
-        public IActionResult GetById([FromRoute]int id)
+
+
+
+
+        //GET: petshop/pessoa/getbyid/1
+
+        [HttpGet]
+        [Route("getbyid/{id}")]
+
+        public IActionResult GetById([FromRoute]string cpf)
         {
-            //Busca produtos apenas pela chave primária
-            Pessoa pessoa = _context.Pessoas.Find(id);
+            //Busca pessoas  apenas pela chave primária
+            Pessoa pessoa = _context.Pessoas.Find(cpf);
             if (pessoa == null)
             {
                 return NotFound(); 
@@ -43,24 +57,43 @@ namespace PetShop.Controllers
             return Ok(pessoa);
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-        public IActionResult Update(Pessoa pessoa)
+        //DELETE: petshop/pessoa/delete
+        [HttpDelete]
+        [Route("delete/{cpf}")]
+        public IActionResult Delete ([FromRoute] string cpf)
         {
-            _context.Pessoas.Update(pessoa);
-            return Ok(pessoa);
+            //expressão lambda
+
+        Pessoa pessoa = _context.Pessoas.FirstOrDefault
+        (
+            pessoa => pessoa.Cpf == cpf
+        );
+        if (pessoa == null)
+        {
+            return NotFound();
         }
+
+        _context.Pessoas.Remove(pessoa);
+        _context.SaveChanges();
+        return Ok(_context.Pessoas.ToList());
+
+
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
 
 
     }

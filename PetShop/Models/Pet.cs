@@ -1,4 +1,7 @@
+
+
 namespace PetShop.Models
+
 {
     public class Pet
     {

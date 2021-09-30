@@ -4,7 +4,8 @@ Content-Type: application/json
 
 {
 "Nome" : "José",
-"Funcao" : "Limpador"
+"Funcao" : "Limpador",
+"Cpf" : "9972495957"
 }
 
 ### Cadastrar Pet
@@ -37,5 +38,5 @@ Content-Type: application/json
 }
 
 ### Deletar Pet
-
-DELETE https://localhost:5001/petshop/pet/delete
+ 
+DELETE https://localhost:5001/petshop/pet/delete/Tigre

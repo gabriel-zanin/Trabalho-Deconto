@@ -1,79 +1,47 @@
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/appsettings.Development.json
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/appsettings.json
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/PetShop.exe
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/PetShop.deps.json
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/PetShop.runtimeconfig.json
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/PetShop.runtimeconfig.dev.json
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/PetShop.dll
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/ref/PetShop.dll
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/PetShop.pdb
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Microsoft.OpenApi.dll
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.csproj.AssemblyReference.cache
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.GeneratedMSBuildEditorConfig.editorconfig
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.AssemblyInfoInputs.cache
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.AssemblyInfo.cs
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.csproj.CoreCompileInputs.cache
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.MvcApplicationPartsAssemblyInfo.cs
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.MvcApplicationPartsAssemblyInfo.cache
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/staticwebassets/PetShop.StaticWebAssets.Manifest.cache
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/staticwebassets/PetShop.StaticWebAssets.xml
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/scopedcss/bundle/PetShop.styles.css
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.RazorTargetAssemblyInfo.cache
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.csproj.CopyComplete
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.dll
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/ref/PetShop.dll
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.pdb
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.genruntimeconfig.cache
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/FRONT/angular.json
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/FRONT/package-lock.json
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/FRONT/package.json
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/FRONT/tsconfig.app.json
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/FRONT/tsconfig.json
-C:/Users/gabri/OneDrive/Faculdade/2021 - 2 Semestre/Desenvolvimento de Software/Trabalho-Deconto/PetShop/bin/Debug/net5.0/FRONT/tsconfig.spec.json
 /Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.dll
 /Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/ref/PetShop.dll
 /Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.pdb
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/appsettings.Development.json
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/appsettings.json
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/FRONT/angular.json
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/FRONT/package-lock.json
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/FRONT/package.json
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/FRONT/tsconfig.app.json
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/FRONT/tsconfig.json
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/FRONT/tsconfig.spec.json
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/PetShop.deps.json
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/PetShop.runtimeconfig.json
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/PetShop.runtimeconfig.dev.json
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/PetShop.dll
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/ref/PetShop.dll
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/PetShop.pdb
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Microsoft.OpenApi.dll
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.csproj.AssemblyReference.cache
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.GeneratedMSBuildEditorConfig.editorconfig
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.AssemblyInfoInputs.cache
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.AssemblyInfo.cs
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.csproj.CoreCompileInputs.cache
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.MvcApplicationPartsAssemblyInfo.cs
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.MvcApplicationPartsAssemblyInfo.cache
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/staticwebassets/PetShop.StaticWebAssets.Manifest.cache
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/staticwebassets/PetShop.StaticWebAssets.xml
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/scopedcss/bundle/PetShop.styles.css
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.RazorTargetAssemblyInfo.cache
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.csproj.CopyComplete
-/Users/carlosneres/OneDrive/Universidade Positivo/Trabalho Deconto/Trabalho-Deconto/PetShop/obj/Debug/net5.0/PetShop.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\ref\PetShop.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.pdb
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\appsettings.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\FRONT\angular.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\FRONT\package-lock.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\FRONT\package.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\FRONT\tsconfig.app.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\FRONT\tsconfig.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\FRONT\tsconfig.spec.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\PetShop.exe
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\PetShop.deps.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\PetShop.runtimeconfig.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\PetShop.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\PetShop.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\ref\PetShop.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\PetShop.pdb
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\staticwebassets\PetShop.StaticWebAssets.Manifest.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\staticwebassets\PetShop.StaticWebAssets.xml
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\scopedcss\bundle\PetShop.styles.css
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.RazorTargetAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\obj\Debug\net5.0\PetShop.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\Trabalho-Deconto\PetShop\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
