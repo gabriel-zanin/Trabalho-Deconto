@@ -5,7 +5,7 @@ Content-Type: application/json
 {
 "Nome" : "José",
 "Funcao" : "Limpador",
-"Cpf" : "9972495957"
+"Cpf" : "99724959557"
 }
 
 ### Cadastrar Pet
@@ -20,7 +20,7 @@ Content-Type: application/json
 
 ### Listar Pets
 
-GET https://localhost:5001/petshop/pet/list
+GET https://localhost:5001/petshop/pessoa/list
 
 ### Buscar Pet pelo ID
 

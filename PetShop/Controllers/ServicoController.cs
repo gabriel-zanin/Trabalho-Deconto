@@ -20,7 +20,7 @@ namespace PetShop.Controllers
           
           
           
-          //Post: /petshop/pet/create
+          //Post: /petshop/servico/create
         [HttpPost]
         [Route("create")]
         public IActionResult Create([FromBody]Servico servico)
@@ -46,7 +46,7 @@ namespace PetShop.Controllers
         
         public IActionResult GetById([FromRoute]int id)
         {
-            //Busca pets apenas pela chave primária
+            //Busca servicos apenas pela chave primária
             Servico servico = _context.Servicos.Find(id);
             if (servico == null)
             {
