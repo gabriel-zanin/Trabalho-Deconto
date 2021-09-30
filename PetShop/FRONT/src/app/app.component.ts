@@ -13,6 +13,7 @@ export class AppComponent implements OnInit{
 
   constructor(private service: PetService){}
 
+  pets : Pet[] = [];
   ngOnInit(): void {
 
     this.service.list().subscribe((pets) => {
