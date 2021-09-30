@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { Pet } from 'src/models/pet';
+import { PetService } from 'src/services/pet.service';
 
 @Component({
   selector: 'app-cadastrar-pet',
@@ -14,22 +15,23 @@ export class CadastrarPetComponent implements OnInit {
   dono!: string;
   tipoAnimal!: string;
 
-  constructor(private router: Router) { }
+  constructor(private router: Router, private service: PetService) { }
 
   ngOnInit(): void {}
 
     cadastrar(): void {
 
       let pet : Pet = {
-
         nome: this.nome,
         dono: this.dono,
         tipoAnimal: this.tipoAnimal,
-
       }
+      this.service.create(pet).subscribe((pet) => {
+        console.log(pet);
+        this.router.navigate(["listar/pet"]);
 
-      console.log(pet);
-      this.router.navigate(["listar/pet"]);
+      });
+
     }
 
 

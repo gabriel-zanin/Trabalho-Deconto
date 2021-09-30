@@ -31,7 +31,10 @@ namespace PetShop
             services.AddControllers().AddNewtonsoftJson();
             services.AddCors(
                 options => {
-                    options.AddPolicy("CorsPolicy", builder => builder.AllowAnyOrigin());
+                    options.AddPolicy("CorsPolicy", builder => builder
+                    .AllowAnyOrigin()
+                    .AllowAnyHeader()
+                    .AllowAnyMethod());
                 }
             );
 

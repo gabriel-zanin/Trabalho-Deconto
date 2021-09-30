@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ListarPetComponent } from './components/views/pet/listar-pet/listar-pet.component';
 import { CadastrarPetComponent } from './components/views/pet/cadastrar-pet/cadastrar-pet.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { CadastrarPetComponent } from './components/views/pet/cadastrar-pet/cada
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
