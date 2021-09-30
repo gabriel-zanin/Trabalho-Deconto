@@ -6,12 +6,16 @@ import { AppComponent } from './app.component';
 import { ListarPetComponent } from './components/views/pet/listar-pet/listar-pet.component';
 import { CadastrarPetComponent } from './components/views/pet/cadastrar-pet/cadastrar-pet.component';
 import { FormsModule } from '@angular/forms';
+import { ListarPessoaComponent } from './components/views/pessoa/listar-pessoa/listar-pessoa.component';
+import { CadastrarPessoaComponent } from './components/views/pessoa/cadastrar-pessoa/cadastrar-pessoa.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ListarPetComponent,
-    CadastrarPetComponent
+    CadastrarPetComponent,
+    ListarPessoaComponent,
+    CadastrarPessoaComponent
   ],
   imports: [
     BrowserModule,

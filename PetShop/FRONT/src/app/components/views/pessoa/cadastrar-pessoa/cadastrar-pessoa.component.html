@@ -1,0 +1,23 @@
+<p>cadastrar-pessoa works!</p>
+
+<div id="nome">
+  <label for="nome">Nome:</label>
+  <input type="text" name="nome" [(ngModel)]="nome" />
+</div>
+
+<div id="cpf">
+  <label for="dono">CPF:</label>
+  <input type="text" name="cpf" [(ngModel)]="cpf" />
+</div>
+
+<div id="telefone">
+  <label for="tipoAnimal">Telefone:</label>
+  <input type="text" name="telefone" [(ngModel)]="telefone" />
+</div>
+
+<div id="funcao">
+  <label for="funcao">Função:</label>
+  <input type="text" name="funcao" [(ngModel)]="funcao" />
+</div>
+
+<button (click)="cadastrar()">Cadastrar</button>

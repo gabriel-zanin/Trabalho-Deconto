@@ -1,0 +1,9 @@
+<p>listar-pessoa works!</p>
+
+<a routerLink="/listar/pessoa">Cadastrar Pessoa</a>
+<ol>
+  <li *ngFor="let pessoa of pessoas">
+   ID  {{pessoa.nome}} Nome: {{pessoa.funcao }} Dono: {{pessoa.cpf}} Categoria: {{pessoa.telefone}}
+  </li>
+</ol>
+
