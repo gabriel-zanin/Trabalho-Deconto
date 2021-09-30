@@ -8,6 +8,8 @@ import { CadastrarPetComponent } from './components/views/pet/cadastrar-pet/cada
 import { FormsModule } from '@angular/forms';
 import { ListarPessoaComponent } from './components/views/pessoa/listar-pessoa/listar-pessoa.component';
 import { CadastrarPessoaComponent } from './components/views/pessoa/cadastrar-pessoa/cadastrar-pessoa.component';
+import { ListarServicoComponent } from './components/views/servico/listar-servico/listar-servico.component';
+import { CadastrarServicoComponent } from './components/views/servico/cadastrar-servico/cadastrar-servico.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +17,9 @@ import { CadastrarPessoaComponent } from './components/views/pessoa/cadastrar-pe
     ListarPetComponent,
     CadastrarPetComponent,
     ListarPessoaComponent,
-    CadastrarPessoaComponent
+    CadastrarPessoaComponent,
+    ListarServicoComponent,
+    CadastrarServicoComponent
   ],
   imports: [
     BrowserModule,
