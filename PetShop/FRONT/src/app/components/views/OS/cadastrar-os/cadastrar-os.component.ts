@@ -42,5 +42,21 @@ export class CadastrarOSComponent implements OnInit {
         }
       }
    }
+  }
 
-}
+
+
+  cadastrar(): void {
+
+    let os : OS = {
+      nomeCliente: this.nomeDono,
+      cpfCliente: this.cpfDono,
+      tipoAnimal: this.tipoAnimal,
+    }
+    this.servicePet.create(pet).subscribe((pet) => {
+      console.log(pet);
+      this.router.navigate(["listar/pet"]);
+
+    });
+
+  }
