@@ -30,7 +30,7 @@ export class PetService {
 
   update(pet: Pet): Observable <Pet>{
 
-    return this.http.post<Pet>(`${this.baseURL}/delete`, pet)
+    return this.http.post<Pet>(`${this.baseURL}/update`, pet)
   }
 
 }

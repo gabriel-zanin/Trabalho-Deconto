@@ -11,7 +11,7 @@ import { PessoaService } from 'src/services/pessoa';
 export class CadastrarPessoaComponent implements OnInit {
 
   nome!: string;
-  cpf!: number;
+  cpf!: string;
   funcao!: string;
   telefone!: number;
 

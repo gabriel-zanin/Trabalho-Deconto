@@ -28,4 +28,9 @@ export class PessoaService {
 
     return this.http.post<Pessoa>(`${this.baseURL}/delete`, pessoa)
   }
+
+  update(pessoa: Pessoa): Observable <Pessoa>{
+
+    return this.http.post<Pessoa>(`${this.baseURL}/update`, pessoa)
+  }
 }
