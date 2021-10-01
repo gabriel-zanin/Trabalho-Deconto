@@ -23,4 +23,9 @@ export class ServicoService {
 
     return this.http.post<Servico>(`${this.baseURL}/create`, servico);
    }
+
+   delete(servico: Servico): Observable <Servico>{
+
+    return this.http.post<Servico>(`${this.baseURL}/delete`, servico)
+  }
 }

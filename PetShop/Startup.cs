@@ -18,9 +18,15 @@ namespace PetShop
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        public Startup(IConfiguration configuration, IHostEnvironment env)
         {
-            Configuration = configuration;
+            var builder = new ConfigurationBuilder()
+         .SetBasePath(env.ContentRootPath)
+         .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+         .AddEnvironmentVariables();
+
+            Configuration = builder.Build();
+            //Configuration = configuration;
         }
 
         public IConfiguration Configuration { get; }

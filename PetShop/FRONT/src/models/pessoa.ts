@@ -1,7 +1,7 @@
 export interface Pessoa {
 
   nome: string;
-  cpf: number;
+  cpf: string;
   funcao: string;
   telefone: number;
 

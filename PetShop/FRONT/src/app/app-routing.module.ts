@@ -4,6 +4,8 @@ import { CadastrarPessoaComponent } from './components/views/pessoa/cadastrar-pe
 import { ListarPessoaComponent } from './components/views/pessoa/listar-pessoa/listar-pessoa.component';
 import { CadastrarPetComponent } from './components/views/pet/cadastrar-pet/cadastrar-pet.component';
 import { ListarPetComponent } from './components/views/pet/listar-pet/listar-pet.component';
+import { CadastrarServicoComponent } from './components/views/servico/cadastrar-servico/cadastrar-servico.component';
+import { ListarServicoComponent } from './components/views/servico/listar-servico/listar-servico.component';
 
 const routes: Routes = [
 
@@ -26,6 +28,14 @@ const routes: Routes = [
   {
     path: "cadastrar/pessoa",
     component: CadastrarPessoaComponent
+  },
+  {
+    path: "listar/servico",
+    component: ListarServicoComponent,
+  },
+  {
+    path: "cadastrar/servico",
+    component: CadastrarServicoComponent
   }
 ];
 

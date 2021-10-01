@@ -8,7 +8,4 @@ import { PetService } from 'src/services/pet.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-
-
-
 }

@@ -10,6 +10,9 @@ import { ListarPessoaComponent } from './components/views/pessoa/listar-pessoa/l
 import { CadastrarPessoaComponent } from './components/views/pessoa/cadastrar-pessoa/cadastrar-pessoa.component';
 import { ListarServicoComponent } from './components/views/servico/listar-servico/listar-servico.component';
 import { CadastrarServicoComponent } from './components/views/servico/cadastrar-servico/cadastrar-servico.component';
+import { DeletarPetComponent } from './components/views/pet/deletar-pet/deletar-pet.component';
+
+import { DeletarServicoComponent } from './components/views/servico/deletar-servico/deletar-servico.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +22,10 @@ import { CadastrarServicoComponent } from './components/views/servico/cadastrar-
     ListarPessoaComponent,
     CadastrarPessoaComponent,
     ListarServicoComponent,
-    CadastrarServicoComponent
+    CadastrarServicoComponent,
+    DeletarPetComponent,
+
+    DeletarServicoComponent
   ],
   imports: [
     BrowserModule,
