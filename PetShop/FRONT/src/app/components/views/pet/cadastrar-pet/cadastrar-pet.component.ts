@@ -34,7 +34,9 @@ export class CadastrarPetComponent implements OnInit {
           pessoa.nome = this.nomeDono
         }
       }
-  }}
+   }
+ }
+
 
     cadastrar(): void {
 
