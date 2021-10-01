@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { Pet } from 'src/models/pet';
 import { PetService } from 'src/services/pet.service';
+import { Pessoa } from 'src/models/pessoa';
+import { PessoaService } from 'src/services/pessoa';
 
 @Component({
   selector: 'app-cadastrar-pet',
@@ -12,21 +14,36 @@ export class CadastrarPetComponent implements OnInit {
 
   nome!: string;
   petId!: number;
-  dono!: string;
+  cpfDono!: string;
+  nomeDono!: string;
   tipoAnimal!: string;
 
-  constructor(private router: Router, private service: PetService) { }
+  pessoas: Pessoa[] = [];
+
+  constructor(private router: Router, private servicePet: PetService, private servicePessoa: PessoaService) {}
 
   ngOnInit(): void {}
+
+  atribuirDono(): void{
+
+    this.servicePessoa.list().subscribe((pessoas) => {
+
+      this.pessoas = pessoas;
+      for (let pessoa of pessoas){
+        if (pessoa.cpf == this.cpfDono) {
+          pessoa.nome = this.nomeDono
+        }
+      }
+  }}
 
     cadastrar(): void {
 
       let pet : Pet = {
         nome: this.nome,
-        dono: this.dono,
+        dono: this.nomeDono,
         tipoAnimal: this.tipoAnimal,
       }
-      this.service.create(pet).subscribe((pet) => {
+      this.servicePet.create(pet).subscribe((pet) => {
         console.log(pet);
         this.router.navigate(["listar/pet"]);
 
