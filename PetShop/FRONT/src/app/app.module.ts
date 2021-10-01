@@ -13,6 +13,7 @@ import { CadastrarServicoComponent } from './components/views/servico/cadastrar-
 import { DeletarPetComponent } from './components/views/pet/deletar-pet/deletar-pet.component';
 
 import { DeletarServicoComponent } from './components/views/servico/deletar-servico/deletar-servico.component';
+import { EditarPetComponent } from './components/views/pet/editar-pet/editar-pet.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { DeletarServicoComponent } from './components/views/servico/deletar-serv
     CadastrarServicoComponent,
     DeletarPetComponent,
 
-    DeletarServicoComponent
+    DeletarServicoComponent,
+     EditarPetComponent
   ],
   imports: [
     BrowserModule,

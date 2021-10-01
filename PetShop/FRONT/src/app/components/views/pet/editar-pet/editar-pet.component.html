@@ -1,0 +1,24 @@
+<p>editar-pet works!</p>
+
+<div id="petId">
+  <label for="petId">Digite o ID do Pet a ser editado:</label>
+  <input type="number" name="petId" [(ngModel)]="petId" />
+</div>
+
+
+<div id="nome">
+  <label for="nome">Nome:</label>
+  <input type="text" name="nome" [(ngModel)]="nome" />
+</div>
+
+<div id="dono">
+  <label for="dono">Nome do Dono:</label>
+  <input type="text" name="dono" [(ngModel)]="dono" />
+</div>
+
+<div id="tipoAnimal">
+  <label for="tipoAnimal">Categoria do Animal:</label>
+  <input type="text" name="tipoAnimal" [(ngModel)]="tipoAnimal" />
+</div>
+
+<button (click)="editar()">Editar</button>

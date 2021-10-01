@@ -28,4 +28,9 @@ export class PetService {
     return this.http.post<Pet>(`${this.baseURL}/delete`, pet)
   }
 
+  update(pet: Pet): Observable <Pet>{
+
+    return this.http.post<Pet>(`${this.baseURL}/delete`, pet)
+  }
+
 }
